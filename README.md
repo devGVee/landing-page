@@ -14,20 +14,6 @@ GoShinobi is a sleek and responsive landing page designed for digital service pr
 
 ---
 
-## 📁 Folder Structure
-
-landing-page/
-├── index.html
-├── style.css
-└── assets/
-    ├── walls-io-1o5vCuV_7Xs-unsplash.webp
-    ├── programming.png
-    ├── cloud-server.png
-    ├── analysis.png
-    └── shield.png
-
----
-
 ## 🛠 Tech Stack
 
 - HTML5
